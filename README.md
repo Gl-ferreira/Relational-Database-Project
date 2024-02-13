@@ -1,5 +1,5 @@
 # Relational-Database-Project
-This project was developed in Storing and Retrieving Data's course, and our goal was to produce a relational database system of a fictional company. 
+This project was developed in Storing and Retrieving Data's course, and our goal was to produce a Relational Database System of a fictional company, using MySQL. 
 **Requirements:**
 
 **A**. Think about any commercial business process of a product or service that needs a relational database
